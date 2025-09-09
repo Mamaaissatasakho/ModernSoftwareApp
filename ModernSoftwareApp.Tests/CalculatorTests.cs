@@ -1,4 +1,4 @@
-﻿using Xunit;
+using Xunit;
 using ModernSoftwareApp;
 
 public class CalculatorTests

@@ -1,4 +1,4 @@
-﻿namespace ModernSoftwareApp;
+namespace ModernSoftwareApp;
 
 public class Calculator
 {
