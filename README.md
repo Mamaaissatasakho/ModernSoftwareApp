@@ -1,4 +1,6 @@
 # ModernSoftwareApp
+[![Build](https://github.com/MamaAissataSakho/ModernSoftwareApp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MamaAissataSakho/ModernSoftwareApp/actions)
+
 
 Petit projet .NET 8 pour le cours **Modern Enterprise Software Engineering** (ESTIAM).
 - Application console C# + classe `Calculator`
